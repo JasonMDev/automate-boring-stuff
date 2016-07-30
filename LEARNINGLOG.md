@@ -1,17 +1,37 @@
 # Learning Log and Table of Contents
 
 ## Part 1 - The Basics of Python Programming
-
 ### Chapter 0: Introduction
+- [x] Whom Is This Book For?
+- [x] Conventions
+- [x] What Is Programming?
+- [x] About This Book
+- [x] Downloading and Installing Python
+- [x] Starting IDLE
+- [ ] How to Find Help
+- [ ] Asking Smart Programming Questions
+- [ ] Summary
+
+------------
+
 ### Chapter 1: Python Basics
+- [ ] Entering Expressions into the Interactive Shell
+- [ ] The Integer, Floating-Point, and String Data Types
+- [ ] String Concatenation and Replication
+- [ ] Storing Values in Variables
+- [ ] Your First Program
+- [ ] Dissecting Your Program
+- [ ] Summary
+- [ ] Practice Questions
+
 ### Chapter 2: Flow Control
 ### Chapter 3: Functions
 ### Chapter 4: Lists
 ### Chapter 5: Dictionaries and Structuring Data
 ### Chapter 6: Manipulating Strings
 
-## Part 2 - Automating Tasks
 
+## Part 2 - Automating Tasks
 ### Chapter 7: Pattern Matching with Regular Expressions
 ### Chapter 8: Reading and Writing Files
 ### Chapter 9: Organizing Files
@@ -25,8 +45,8 @@
 ### Chapter 17: Manipulating Images
 ### Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
 
-## APPENDIX
 
+## APPENDIX
 ### A - Installing Third-Party Modules
 ### B - Running Programs
 ### C - Answers to Practice Questions
