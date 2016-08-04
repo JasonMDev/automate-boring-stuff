@@ -8,9 +8,9 @@
 - [x] About This Book
 - [x] Downloading and Installing Python
 - [x] Starting IDLE
-- [ ] How to Find Help
-- [ ] Asking Smart Programming Questions
-- [ ] Summary
+- [x] How to Find Help
+- [x] Asking Smart Programming Questions
+- [x] Summary
 
 ------------
 
