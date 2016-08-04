@@ -26,6 +26,17 @@
 - [x] Practice Questions
 
 ### Chapter 2: Flow Control
+- [x] Boolean Values
+- [x] Comparison Operators
+- [x] Boolean Operators
+- [x] Mixing Boolean and Comparison Operators
+- [x] Elements of Flow Control
+- [x] Program Execution
+- [x] Flow COntrol Statements
+- [x] Importing Modules
+- [x] Summary
+- [x] Practise Questions
+
 ### Chapter 3: Functions
 ### Chapter 4: Lists
 ### Chapter 5: Dictionaries and Structuring Data
