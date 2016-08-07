@@ -38,6 +38,19 @@
 - [x] Practise Questions
 
 ### Chapter 3: Functions
+- [x] def Statements with Parameters
+- [x] Return Values and Return Statements
+- [x] The None Value
+- [x] Keyword Arguments
+- [x] Local and Global Scope
+- [x] The Global Statement
+- [x] Exception Handling
+- [x] A short Program: Guess the number
+- [x] Summary
+- [x] Practise Questions
+- [x] Practise Project
+
+
 ### Chapter 4: Lists
 ### Chapter 5: Dictionaries and Structuring Data
 ### Chapter 6: Manipulating Strings
