@@ -48,10 +48,23 @@
 - [x] A short Program: Guess the number
 - [x] Summary
 - [x] Practise Questions
-- [x] Practise Project
-
+- [x] Practise Project: Collatz Sequence
 
 ### Chapter 4: Lists
+- [x] The List Data Type
+- [x] Working with Lists
+- [x] Augmented Assignment Operator
+- [x] Methods
+- [x] Example Program: Magic 8 Ball with a list
+- [x] List-like Types: Strings and Tuples
+- [x] References
+- [x] Summary
+- [x] Practice Project: Comma Code
+- [x] Practice Project: Character Picture Grid
+
+
+
+
 ### Chapter 5: Dictionaries and Structuring Data
 ### Chapter 6: Manipulating Strings
 
