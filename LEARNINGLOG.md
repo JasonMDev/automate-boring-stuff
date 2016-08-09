@@ -62,10 +62,14 @@
 - [x] Practice Project: Comma Code
 - [x] Practice Project: Character Picture Grid
 
-
-
-
 ### Chapter 5: Dictionaries and Structuring Data
+- [x] The Dictionary Data Type
+- [x] Pretty Printing
+- [x] Using Data Structures to Model Real-World Things
+- [x] Summary
+- [x] Practise Questions
+- [x] Practice Project: Fantasy Game Inventory
+
 ### Chapter 6: Manipulating Strings
 
 ------------

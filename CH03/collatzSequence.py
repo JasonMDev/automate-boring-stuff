@@ -1,4 +1,4 @@
-#! python3
+#! /usr/bin/python3
 # This is a programme that shows off the collatz sequence.
 
 # Determine collatz sequence
