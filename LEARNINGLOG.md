@@ -71,6 +71,13 @@
 - [x] Practice Project: Fantasy Game Inventory
 
 ### Chapter 6: Manipulating Strings
+- [x] Working with Strings
+- [x] Useful String Methods
+- [x] Project: Secret Password Locker
+- [x] Project: Adding Bullets to a Wiki Mark-up
+- [x] Summary
+- [x] Practise Questions
+- [x] Practise Project: Table Printer
 
 ------------
 
