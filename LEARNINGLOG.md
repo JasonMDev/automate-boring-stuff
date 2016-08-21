@@ -1,5 +1,4 @@
 # Learning Log and Table of Contents
-==================================================
 
 ### Chapter 0: Introduction
 - [x] Whom Is This Book For?
@@ -99,12 +98,21 @@
 - [x] Combining re.IOGNORECASE, re.DOTALL and re.VERBOSE
 - [x] Project: Phone Number and Email Address Extractor
 - [x] Summary
-- [x] Practise QUestions
-
-
-
+- [x] Practise Questions
 
 ### Chapter 8: Reading and Writing Files
+- [x] File and File Paths
+- [x] The os.path Module
+- [x] The File Reading/Writing Process
+- [x] Saving Variables with the Shelve Method
+- [x] Saving Variables with the pprint.pformat() Function
+- [x] Project: Generating Random Quiz Files
+- [x] Project: Multiclipboard
+- [x] Summary
+- [x] Practise Questions
+
+
+
 ### Chapter 9: Organizing Files
 ### Chapter 10: Debugging
 ### Chapter 11: Web Scraping
