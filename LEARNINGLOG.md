@@ -111,9 +111,15 @@
 - [x] Summary
 - [x] Practise Questions
 
-
-
 ### Chapter 9: Organizing Files
+- [x] The shutil Module
+- [x] Walking a Directory Tree
+- [x] Compressing Files with the zipfile Module
+- [x] Project: Renaming Files with American-Style Dates to European-Style Dates
+- [x] Project: Backing up a Folder into a ZIP File
+- [x] Summary
+- [x] Practise Questions
+
 ### Chapter 10: Debugging
 ### Chapter 11: Web Scraping
 ### Chapter 12: Working with Excel Spreadsheets
