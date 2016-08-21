@@ -1,5 +1,5 @@
 # Learning Log and Table of Contents
-
+==================================================
 
 ### Chapter 0: Introduction
 - [x] Whom Is This Book For?
@@ -83,6 +83,27 @@
 
 ## Part 2 - Automating Tasks
 ### Chapter 7: Pattern Matching with Regular Expressions
+- [x] Finding Patterns of Text Without Regular Expressions
+- [x] Finding Patterns of Text Without Regular Expressions
+- [x] More Pattern Matching with Regular Expressions
+- [x] Greedy and Non-Greedy Matching
+- [x] The Findall() Method
+- [x] Character Classes
+- [x] Making Your Own Character Classes
+- [x] The Caret and Dollar Sign Characters
+- [x] The Wildcard Character
+- [x] Review ofRegex Symbols
+- [x] Case Insensitive Matching
+- [x] Substituting Strings with the sub() Method
+- [x] Managing Complex Regexes
+- [x] Combining re.IOGNORECASE, re.DOTALL and re.VERBOSE
+- [x] Project: Phone Number and Email Address Extractor
+- [x] Summary
+- [x] Practise QUestions
+
+
+
+
 ### Chapter 8: Reading and Writing Files
 ### Chapter 9: Organizing Files
 ### Chapter 10: Debugging
