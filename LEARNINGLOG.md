@@ -126,12 +126,21 @@
 - [x] Assertions
 - [x] Logging
 - [x] IDLEs Debugger
-- [x] Project: Backing up a Folder into a ZIP File
 - [x] Summary
 - [x] Practise Questions
 
-
 ### Chapter 11: Web Scraping
+- [x] Project: mapIt with the webbrowser module
+- [x] Downloading Files from the Web with request Module
+- [x] Saving Downloaded Files to the Hard Drive
+- [x] HTML
+- [x] Parsing HTML with BeatifulSoup Module
+- [x] Project: Im Feeling lucky Google Search
+- [x] Project: Downloading All XKCD Comics
+- [x] Controlling the Browser with the Selinium Module
+- [x] Summary
+- [x] Practise Questions
+
 ### Chapter 12: Working with Excel Spreadsheets
 ### Chapter 13: Working with PDF and Word Documents
 ### Chapter 14: Working with CSV Files and JSON Data

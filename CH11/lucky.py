@@ -1,4 +1,4 @@
-#! python3
+#! /usr/bin/python3
 # lucky.py - Opens several Google search results.
 
 import requests, sys, webbrowser, bs4
