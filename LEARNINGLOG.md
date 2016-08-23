@@ -121,6 +121,16 @@
 - [x] Practise Questions
 
 ### Chapter 10: Debugging
+- [x] Raising Exceptions
+- [x] Getting Traceback as String
+- [x] Assertions
+- [x] Logging
+- [x] IDLEs Debugger
+- [x] Project: Backing up a Folder into a ZIP File
+- [x] Summary
+- [x] Practise Questions
+
+
 ### Chapter 11: Web Scraping
 ### Chapter 12: Working with Excel Spreadsheets
 ### Chapter 13: Working with PDF and Word Documents
