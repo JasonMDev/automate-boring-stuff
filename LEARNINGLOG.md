@@ -199,8 +199,25 @@
 - [x] Summary
 - [x] Practise Questions
 
-
 ### Chapter 15: Time, Scheduling Tasks, and Launching Programs
+- [x] The time Module
+- [x] Project: Super Stopwatch
+- [x] The datetime Module
+- [x] The timedelta Data Type
+- [x] Review of Python’s Time Functions
+- [x] Multithreading
+- [x] Passing Arguments to the Thread’s Target Function
+- [x] Project: Multithreaded XKCD Downloader
+- [x] Launching Other Programs from Python
+- [x] Passing Command Line Arguments to Popen()
+- [x] Task Scheduler, launchd, and cron
+- [x] Opening Websites with Python
+- [x] Running Other Python Scripts
+- [x] Opening Files with Default Applications
+- [x] Project: Simple Countdown Program
+- [x] Summary
+- [x] Practise Questions
+
 ### Chapter 16: Sending Email and Text Messages
 ### Chapter 17: Manipulating Images
 ### Chapter 18: Controlling the Keyboard and Mouse with GUI Automation
