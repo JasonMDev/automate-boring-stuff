@@ -169,6 +169,23 @@
 - [x] Practise Questions
 
 ### Chapter 13: Working with PDF and Word Documents
+- [x] PDF Documents
+- [x] Decrypting PDFs
+- [x] Creating PDFs
+- [x] Project: Combining Select Pages from Many PDFs
+- [x] Word Documents
+- [x] Reading Word Documents
+- [x] Getting the Full Text from a .docx File
+- [x] Styling Paragraph and Run Objects
+- [x] Creating Word Documents with Nondefault Styles
+- [x] Run Attributes
+- [x] Writing Word Documents
+- [x] Adding Headings
+- [x] Adding Line and Page Breaks
+- [x] Adding Pictures
+- [x] Summary
+- [x] Practise Questions
+
 ### Chapter 14: Working with CSV Files and JSON Data
 ### Chapter 15: Time, Scheduling Tasks, and Launching Programs
 ### Chapter 16: Sending Email and Text Messages
