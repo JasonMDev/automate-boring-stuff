@@ -142,6 +142,32 @@
 - [x] Practise Questions
 
 ### Chapter 12: Working with Excel Spreadsheets
+- [x] Excel Documents
+- [x] Installing the openpyxl Module
+- [x] Reading Excel Documents
+- [x] Opening Excel Documents with OpenPyXL
+- [x] Getting Sheets from the Workbook
+- [x] Getting Cells from the Sheets
+- [x] Converting Between Column Letters and Numbers
+- [x] Getting Rows and Columns from the Sheets
+- [x] Workbooks, Sheets, Cells
+- [x] Project: Reading Data from a Spreadsheet
+- [x] Writing Excel Documents
+- [x] Creating and Saving Excel Documents
+- [x] Creating and Removing Sheets
+- [x] Writing Values to Cells
+- [x] Project: Updating a Spreadsheet
+- [x] Setting the Font Style of Cells
+- [x] Font Objects
+- [x] Formulas
+- [x] Adjusting Rows and Columns
+- [x] Setting Row Height and Column Width
+- [x] Merging and Unmerging Cells
+- [x] Freeze Panes
+- [x] Charts
+- [x] Summary
+- [x] Practise Questions
+
 ### Chapter 13: Working with PDF and Word Documents
 ### Chapter 14: Working with CSV Files and JSON Data
 ### Chapter 15: Time, Scheduling Tasks, and Launching Programs
