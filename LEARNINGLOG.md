@@ -187,6 +187,19 @@
 - [x] Practise Questions
 
 ### Chapter 14: Working with CSV Files and JSON Data
+- [x] The CSV Module
+- [x] Reader Objects
+- [x] Reading Data from Reader Objects in a for Loop
+- [x] Writer Objects
+- [x] The delimiter and lineterminator Keyword Arguments
+- [x] Project: Removing the Header from CSV Files
+- [x] JSON and APIs
+- [x] The JSON Module
+- [x] Project: Fetching Current Weather Data
+- [x] Summary
+- [x] Practise Questions
+
+
 ### Chapter 15: Time, Scheduling Tasks, and Launching Programs
 ### Chapter 16: Sending Email and Text Messages
 ### Chapter 17: Manipulating Images
